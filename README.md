@@ -14,7 +14,7 @@ node app crear -- base # --limite #`
 ````````
 se crea un archivo con la tabla de multiplicar.
 
-Para más información de los comandos que se crearon en el proyecto utilizar los comando:
+Para más información de los comandos que se crearon en el proyecto utilizar los comandos:
 
 ````````````
 node app help 
@@ -22,5 +22,7 @@ node app listar help
 node app crear help
 ``````````````
 
-Para Instalar las dependencias requeridas para el proyecto, utilizar el comando : npm install 
-
+Para Instalar las dependencias requeridas para el proyecto, utilizar el comando :
+````````
+ npm install 
+````````
