@@ -21,8 +21,3 @@ node app help
 node app listar help 
 node app crear help
 ``````````````
-
-Para Instalar las dependencias requeridas para el proyecto, utilizar el comando :
-````````
- npm install 
-````````
